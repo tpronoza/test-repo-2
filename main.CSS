@@ -1,3 +1,16 @@
-body{
-  background-color: bisque;
+body {
+  background-image: url("https://images.ctfassets.net/usf1vwtuqyxm/71J6YPxNauhFABbjHpGluJ/631bd6980b0a430d5b476ef331abb2b5/release_1_hogwarts.png"); 
+  background-color: rgb(125, 156, 196);
+   /* font-family: 'Tangerine', cursive; */
+ }
+
+
+ .logo {
+  margin: auto;
+  text-align: center;
+}
+
+.logo img{
+  width: 25%;
+  height: auto;
 }
