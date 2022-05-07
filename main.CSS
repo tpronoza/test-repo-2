@@ -4,7 +4,6 @@ body {
    /* font-family: 'Tangerine', cursive; */
  }
 
-
  .logo {
   margin: auto;
   text-align: center;
@@ -14,3 +13,39 @@ body {
   width: 25%;
   height: auto;
 }
+
+#card-body {
+  display: flex;
+  justify-content: flex-end;
+  align-content: center;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+#housedStudents {
+  flex-wrap: wrap;
+  justify-content: center;
+  display: flex;
+}
+
+
+
+.card-img-top {
+  padding: 15px;
+  align-items: center;
+  width: auto !important;
+  height: 185px !important;
+  }
+
+  .expelledStudentsArmy{
+    flex-wrap: wrap;
+    justify-content: center;
+    display: flex;
+  }
+  
+  .expelledStudents{
+    flex-wrap: wrap;
+    justify-content: center;
+    display: flex;
+  }
+  
